@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: EchoingPeng's Page
 description: EchoingPeng's Page
 google_analytics: "UA-136216450-1"
-
+permalink: /blog/:year/:month/:day/:title
