@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 title: EchoingPeng's Page
 description: EchoingPeng's Page
 google_analytics: "UA-136216450-1"
